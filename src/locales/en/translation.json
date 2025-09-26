@@ -1,0 +1,39 @@
+{
+  "app_title": "Tourist Safety Monitor",
+  "gov": "Government of India",
+  "login": "Login",
+
+  "hero_title": "Ensuring Safe Tourism Across India",
+  "hero_subtitle": "A comprehensive monitoring system to ensure the safety and security of tourists visiting India.",
+  "download_android": "Download Android App",
+  "download_ios": "Download iOS App",
+
+  "features": "System Features",
+  "tourist_protection": "Tourist Protection",
+  "tourist_protection_desc": "Real-time monitoring and alert system to ensure tourist safety across India.",
+  "location_tracking": "Location Tracking",
+  "location_tracking_desc": "Secure and privacy-focused location tracking for emergency situations.",
+  "emergency_response": "Emergency Response",
+  "emergency_response_desc": "Quick response system connecting tourists with local authorities in case of emergencies.",
+  "secure_docs": "Secure Documentation",
+  "secure_docs_desc": "Blockchain-based secure storage of tourist identification and documentation.",
+
+  "mission": "Mission Statement",
+  "mission_para1": "The Tourist Safety Monitor system is an initiative by the Government of India to enhance the safety and security of domestic and international tourists visiting our country. Our mission is to leverage technology to create a comprehensive monitoring and response system that ensures tourists can explore India with confidence and peace of mind.",
+  "mission_para2": "Through real-time monitoring, rapid emergency response, and secure documentation, we aim to make India one of the safest tourist destinations in the world while respecting privacy and maintaining the highest standards of data security.",
+
+  "privacy": "Privacy Policy",
+  "privacy_data_collection_title": "Data Collection",
+  "privacy_data_collection": "The Tourist Safety Monitor system collects essential information from tourists including identification details, travel itinerary, and emergency contact information. Location data is only collected when explicitly permitted by the user through the mobile application.",
+  "privacy_data_usage_title": "Data Usage",
+  "privacy_data_usage": "All collected data is used solely for the purpose of ensuring tourist safety and security. Information may be shared with law enforcement agencies only in case of emergencies or legal requirements.",
+  "privacy_data_security_title": "Data Security",
+  "privacy_data_security": "Tourist identification and documentation are secured using blockchain technology, ensuring the highest level of data integrity and protection. All communication between the mobile application and our servers is encrypted using industry-standard protocols.",
+  "privacy_data_retention_title": "Data Retention",
+  "privacy_data_retention": "Tourist data is retained only for the duration of their stay in India plus 30 days, after which all personal information is automatically deleted from our active systems. Anonymized statistical data may be retained for analytical purposes.",
+
+  "tos": "Terms of Service",
+  "contact": "Contact Us",
+  "help": "Help Center",
+  "copyright": "© 2023 Government of India. All rights reserved."
+}

@@ -1,0 +1,39 @@
+{
+  "app_title": "Tourist Safety Monitor",
+  "gov": "Sorkar India",
+  "login": "Login",
+
+  "hero_title": "Ban pynshisha ia ka jingiaid jngohkai kaba shngaiñ ha India",
+  "hero_subtitle": "Ka rukom peitngor kaba pura ban pynshisha ia ka jingiarap bad ka jingshngaiñ ki nongwan jngohkai ha India.",
+  "download_android": "Download Android App",
+  "download_ios": "Download iOS App",
+
+  "features": "Ki bynta jong ka system",
+  "tourist_protection": "Ka jingiarap ia ki nongwan jngohkai",
+  "tourist_protection_desc": "Ka rukom peitngor bad jingpynbna ha ka por ba dei ban pynshisha ia ka jingshngaiñ jong ki nongwan jngohkai ha India.",
+  "location_tracking": "Location Tracking",
+  "location_tracking_desc": "Ka jingpeitngor kaba shngaiñ bad kaba tip-briew ia ki jaka ha ki por ba donkam.",
+  "emergency_response": "Ka jingsiew jubab ha ki por ba donkam",
+  "emergency_response_desc": "Ka rukom jubab kloi kaba pyniasoh ia ki nongwan jngohkai bad ki bor sorkar ha ki por jingeh.",
+  "secure_docs": "Secure Documentation",
+  "secure_docs_desc": "Ka jingshah buh jingtip kaba shngaiñ lyngba ka blockchain ban sumar ia ki kotkhubor bad jingtip jong ki nongwan jngohkai.",
+
+  "mission": "Mission Statement",
+  "mission_para1": "Ka Tourist Safety Monitor ka dei ka jingthmu jong ka Sorkar India ban pynkhlaiñ ia ka jingshngaiñ bad ka jingiarap ia ki nongwan jngohkai na ri bad na shabar. Ka jingthmu jong ngi ka long ban pyndonkam ia ka teknolog ban thaw ia ka rukom peitngor bad ka rukom jubab kaba pura ban pynshisha ba ki nongwan jngohkai kin ioh ban leit jngohkai ha India da ka jingshaniah bad jingkmen.",
+  "mission_para2": "Lyngba ka rukom peitngor ha ka por, ka rukom jubab kloi ha ki por jingeh bad ka rukom buh jingtip kaba shngaiñ, ngi thmu ban pynlong ia India kum kawei na ki jaka jngohkai kiba shngaiñ tam ha pyrthei bad ban iai pynneh ia ka jingburom ia ka jingim bad ka jingtip jong ki briew.",
+
+  "privacy": "Privacy Policy",
+  "privacy_data_collection_title": "Ka jinglum jingtip",
+  "privacy_data_collection": "Ka Tourist Safety Monitor ka lum ia ka jingtip kaba donkam na ki nongwan jngohkai kynthup ia ki kot jingiathuhkhana jong ki, ka jingiaid lynti bad ka jingsngewbha ban ioh jingiarap ha ka por jingeh. Ka jingtip halor ki jaka ka ioh tang lada la ai jingbit da ka app.",
+  "privacy_data_usage_title": "Ka rukom pyndonkam",
+  "privacy_data_usage": "Ka jingtip kaba la lum kan shu pyndonkam tang na ka bynta ban pynshisha ia ka jingshngaiñ ki nongwan jngohkai. Ka jingtip kan lah ban pynphai tang sha ki bor sorkar ha ka por jingeh lane ha ka por ba donkam ki hukum ain.",
+  "privacy_data_security_title": "Ka jingshngaiñ ia ka jingtip",
+  "privacy_data_security": "Ki kot jingiathuhkhana jong ki nongwan jngohkai ki shngaiñ lyngba ka blockchain ban pynneh ia ka jingshngaiñ bad ka jingshisha. Ka jingiaid jingtip hapdeng ka mobile app bad ki server ka shngaiñ da ki protocol standard.",
+  "privacy_data_retention_title": "Ka jingbat jingtip",
+  "privacy_data_retention": "Ka jingtip jong ki nongwan jngohkai kan bat tang katba ki dang sah ha India bad 30 sngi hadien kata, hadien kata baroh ka jingtip jong ki hiar briew kan shah pynduh noh. Ka jingtip ba la pynlong namar ban bishar (analytics) lah ban bat kham slem.",
+
+  "tos": "Terms of Service",
+  "contact": "Contact Us",
+  "help": "Help Center",
+  "copyright": "© 2023 Sorkar India. Ki hok baroh ki dei ban iada."
+}

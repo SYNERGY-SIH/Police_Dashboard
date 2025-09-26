@@ -1,0 +1,39 @@
+{
+  "app_title": "Khualzin Vengtu",
+  "gov": "India Sawrkar",
+  "login": "Luhna",
+
+  "hero_title": "India rama Khualzin himna tichian ang che",
+  "hero_subtitle": "India rama khualzinte ṭanpuina leh himna tichian turin hna a thawk famkim (comprehensive monitoring system) a ni.",
+  "download_android": "Android App Download rawh",
+  "download_ios": "iOS App Download rawh",
+
+  "features": "System A Bungte (Features)",
+  "tourist_protection": "Khualzin Vênna (Tourist Protection)",
+  "tourist_protection_desc": "India rama khualzinte himna tichian turin vênna leh chinchang hriattirna (real-time monitoring and alerts) a awm.",
+  "location_tracking": "Hmun Hriatna (Location Tracking)",
+  "location_tracking_desc": "Mamawh huna hmun hriatna (location tracking) him leh thuruk vawn (privacy-respecting) a ni.",
+  "emergency_response": "Chhiat Rûk Thil Thlen Huna Chhân Lêtna (Emergency Response)",
+  "emergency_response_desc": "Khualzin leh Sawrkar official-te chhiat ruk thil thlen huna an inbiak theih nan, hna thawk rang tak (rapid response) a ni.",
+  "secure_docs": "Lehkhaziak Vawn Himna (Secure Documentation)",
+  "secure_docs_desc": "Khualzin document leh hriat tur dangte (data) vawn him leh dik ngei tura blockchain hmanga vawn himna (secure storage) a ni.",
+
+  "mission": "Thil Tum Pui (Mission Statement)",
+  "mission_para1": "Khualzin Vengtu (Tourist Safety Monitor) hi India Sawrkarin ram chhung leh ram pawna khualzinte himna leh ṭanpuina tihchak (strengthen) tura a ruahmanna a ni. Kan thil tum chu khualzinte India ramah him leh hlim takin an zin thei tih tichian turin technology hmangin vênna leh chhan lêtna (response) famkim siam a ni.",
+  "mission_para2": "Vênna hna thawk chho (real-time monitoring), chhiat ruk thil thlen huna chhân lêtna rang (rapid emergency response), leh hriat tur dangte vawn himna (secure documentation) hmangin, India ram hi khualzinna hmun him ber pawl a nih theih nan leh an nun leh hriat tur (data) an zahpui loh nan (respect for life and privacy) hma kan la a ni.",
+
+  "privacy": "Thuruk Vawn Dan (Privacy Policy)",
+  "privacy_data_collection_title": "Hriat Tur Dangte Pawm Khawm (Data Collection)",
+  "privacy_data_collection": "Khualzin Vengtu (Tourist Safety Monitor) hian khualzinte hriat tur pawimawh (essential data), an passport leh zinkawng (travel itinerary) te, chhiat ruk thil thlen huna ṭanpuina an beisei theih nan a pawm khawm a ni. Hmun hriatna (location data) chu app-in phalna a neih chauhvin a la a ni.",
+  "privacy_data_usage_title": "Hman Dan Tur (Data Usage)",
+  "privacy_data_usage": "Hriat tur pawm khawmte chu khualzinte himna tichianna atan chauh hman a ni. Hriat turte chu chhiat ruk thil thlen huna chhan lêtna atan emaw, danin a phut huna Sawrkar official-te hnenah chauh hrilh theih a ni.",
+  "privacy_data_security_title": "Hriat Tur Vawn Him Dan (Data Security)",
+  "privacy_data_security": "Khualzinte document-te chu himna leh dikna tichian turin blockchain hmangin vawn him a ni. Mobile app leh server-a hriat turte inthleng (data transfer) chu protocol pangngai (standard protocols) hmangin vawn him a ni.",
+  "privacy_data_retention_title": "Hriat Tur Vawn Rei Dan (Data Retention)",
+  "privacy_data_retention": "Khualzin hriat turte chu India rama an awm chhung leh chu mi aṭanga ni **30** hnuah chauh vawn a ni, chu mi hnuah chuan an hriat tur zawng zawng chu tihchhiat (destroyed) a ni. Hriat tur thlithlai (analytics) atana siam erawh chu rei deuh vawn theih a ni.",
+
+  "tos": "Hman Dan Tur Leh Remruatna (Terms of Service)",
+  "contact": "Biak Pawhna (Contact Us)",
+  "help": "Ṭanpuina Hmun (Help Center)",
+  "copyright": "© 2023 India Sawrkar. Dikna zawng zawng humhim vek a ni."
+}

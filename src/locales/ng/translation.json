@@ -1,0 +1,39 @@
+{
+  "app_title": "Tourist Safety Monitor",
+  "gov": "India Government",
+  "login": "Login",
+
+  "hero_title": "India te safe tourism karibi",
+  "hero_subtitle": "India te ahi thaka tourist khan laga safety aru security karone pura monitoring system ase.",
+  "download_android": "Android App Download Koribi",
+  "download_ios": "iOS App Download Koribi",
+
+  "features": "System laga Features",
+  "tourist_protection": "Tourist laga Protection",
+  "tourist_protection_desc": "Real-time monitoring aru alert system pora tourist safety India te karibi.",
+  "location_tracking": "Location Tracking",
+  "location_tracking_desc": "Emergency situation te secure aru privacy-focused location tracking ase.",
+  "emergency_response": "Emergency Response",
+  "emergency_response_desc": "Emergency te tourist khan ke local authority logot quick connect kori dibole system ase.",
+  "secure_docs": "Secure Documentation",
+  "secure_docs_desc": "Blockchain pora tourist laga ID aru documents secure kori rakhibo karone.",
+
+  "mission": "Mission Statement",
+  "mission_para1": "Tourist Safety Monitor India Government laga ekta initiative ase. Eta pora domestic aru international tourist khan laga safety aru security karibi. Technology use kori pura monitoring aru response system create koribo juntu tourist khan India explore kori bole confidence aru peace of mind pabo.",
+  "mission_para2": "Real-time monitoring, fast emergency response aru secure documentation pora India ke ekta safest tourist destination banabo karone, privacy respect kori aru high standard data security maintain kori thakibo.",
+
+  "privacy": "Privacy Policy",
+  "privacy_data_collection_title": "Data Collection",
+  "privacy_data_collection": "Tourist Safety Monitor tourist khan pora ID detail, travel itinerary aru emergency contact information collect kore. Location data to only collect kori ase jabole user pora app te permission dise.",
+  "privacy_data_usage_title": "Data Usage",
+  "privacy_data_usage": "Collect kora data tourist safety aru security karone use kori ase. Information law enforcement logot only emergency nai legal requirement te share kori ase.",
+  "privacy_data_security_title": "Data Security",
+  "privacy_data_security": "Tourist ID aru document blockchain pora secure kori rakha ase, juntu highest level data integrity aru protection dibo. Mobile app aru server majot sob communication encrypt kori ase industry-standard protocol pora.",
+  "privacy_data_retention_title": "Data Retention",
+  "privacy_data_retention": "Tourist data India te thaka time plus 30 days porjonto rakha ase, tai piche sob personal information automatic delete kori dibo. Anonymous statistical data analytical karone rakhibo paribo.",
+
+  "tos": "Terms of Service",
+  "contact": "Contact Koribi",
+  "help": "Help Center",
+  "copyright": "© 2023 India Government. Sob right reserve ase."
+}
