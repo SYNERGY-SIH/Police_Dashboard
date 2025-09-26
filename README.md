@@ -12,6 +12,6 @@ Built with **React + TypeScript (Vite)** frontend and **Node.js + Express + Sock
 - Leaflet map view with markers + heatmap.
 - Persistent local JSON storage (`data.json`).
 - Simple demo login (`test@gmail.com` / `1234`) with protected routes.
-- Clear all records via `/api/clear`.
+
 
 
